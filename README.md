@@ -1,6 +1,6 @@
 # data-analysis-jupyter
 Repository for Jupyter Notebook containing data analysis scripts.
-# Sales Analysis Project
+## Sales Analysis Project
 
 Analyze and derive insights from consumer behavior data, focusing on purchasing patterns and preferences. Explore demographic trends, regional influences, and sector-specific spending habits.
 
